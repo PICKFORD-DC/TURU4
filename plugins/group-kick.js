@@ -1,4 +1,4 @@
-import { areJidsSameUser } from '@adiwajshing/baileys'
+/*import { areJidsSameUser } from '@adiwajshing/baileys'
 let handler = async (m, { conn, participants }) => {
     let users = m.mentionedJid.filter(u => !areJidsSameUser(u, conn.user.id))
     let kickedUser = []
@@ -22,3 +22,4 @@ handler.botAdmin = true
 export default handler
 
 const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms))
+*/
