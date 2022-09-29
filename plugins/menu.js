@@ -577,7 +577,7 @@ const listMessage = {
             templateButtons: [
                 {
                     urlButton: {
-                        displayText: `${namebot}`,
+                        displayText: 'Base Bot',
                         url: 'https://github.com/ImYanXiao/Elaina-MultiDevice'
                     }
                 },
@@ -589,19 +589,19 @@ const listMessage = {
                 },
                 {
                     quickReplyButton: {
-                        displayText: 'Owner🎐',
+                        displayText: 'OWNER',
                         id: '.owner'
                     }
                 },
                 {
                     quickReplyButton: {
-                        displayText: 'Speed⚡',
+                        displayText: 'STATUS BOT',
                         id: '.ping'
                     }
                 },
                 {
                     quickReplyButton: {
-                        displayText: 'Donasi💵',
+                        displayText: 'SEWAH bot',
                         id: '.donasi'
                     }
                 },
@@ -649,8 +649,8 @@ const listMessage = {
   }
 }
 handler.help = ['menu', 'help', '?']
-handler.tags = ['.allmenu']
-handler.command = /^(menu|help|\?)$/i
+handler.tags = ['main']
+handler.command = /^(allmenu|.allmenu|\?)$/i
 
 handler.register = false
 handler.exp = 3
@@ -685,16 +685,16 @@ function ucapan() {
   const time = moment.tz('Asia/Jakarta').format('HH')
   let res = "Kok Belum Tidur Kak? 🥱"
   if (time >= 4) {
-    res = "Pagi 🌄"
+    res = "Selamat Pagi Kak 🌄"
   }
   if (time >= 10) {
-    res = "Siang Lord ☀️"
+    res = "Selamat Malam Kak ☀️"
   }
   if (time >= 15) {
-    res = "Sore 🌇"
+    res = "Selamat Sore Kak 🌇"
   }
   if (time >= 18) {
-    res = "Malam  🌙"
+    res = "Selamat Malam Kak 🌙"
   }
   return res
 }
