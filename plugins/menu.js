@@ -649,7 +649,7 @@ const listMessage = {
   }
 }
 handler.help = ['menu', 'help', '?']
-handler.tags = ['main']
+handler.tags = ['.allmenu']
 handler.command = /^(menu|help|\?)$/i
 
 handler.register = false
