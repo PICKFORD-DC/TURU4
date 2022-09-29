@@ -1,4 +1,4 @@
-import { sticker } from '../lib/sticker.js'
+/*import { sticker } from '../lib/sticker.js'
 import uploadFile from '../lib/uploadFile.js'
 import uploadImage from '../lib/uploadImage.js'
 import { webp2png } from '../lib/webp2mp4.js'
@@ -46,3 +46,4 @@ export default handler
 const isUrl = (text) => {
   return text.match(new RegExp(/https?:\/\/(www\.)?[-a-zA-Z0-9@:%._+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_+.~#?&/=]*)(jpe?g|gif|png)/, 'gi'))
 }
+*/
