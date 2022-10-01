@@ -1,4 +1,4 @@
-import fetch from 'node-fetch'
+/*import fetch from 'node-fetch'
 import { youtubeSearch } from '@bochilteam/scraper'
 let handler = async (m, { conn, groupMetadata, usedPrefix, text, args, command }) => {
 try {
@@ -49,3 +49,4 @@ async function shortUrl(url) {
   if (!res.ok) throw false
   return await res.text()
 }
+*/
