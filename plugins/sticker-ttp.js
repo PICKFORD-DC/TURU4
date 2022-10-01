@@ -1,4 +1,4 @@
-import { sticker } from '../lib/sticker.js'
+/*import { sticker } from '../lib/sticker.js'
 
 let handler = async (m, { conn, text }) => {
     let teks = text ? text : m.quoted && m.quoted.text ? m.quoted.text : m.text
@@ -11,4 +11,4 @@ handler.tags = ['sticker']
 
 handler.command = /^ttp$/i
 
-export default handler
+export default handler*/
