@@ -1,4 +1,4 @@
-import cheerio from 'cheerio'
+/*import cheerio from 'cheerio'
 import fetch from 'node-fetch'
 import { lookup } from 'mime-types'
 import { URL_REGEX } from '@adiwajshing/baileys'
@@ -41,3 +41,4 @@ async function pinterest(query) {
 async function shortUrl(url) {
 	return await (await fetch(`https://tinyurl.com/api-create.php?url=${url}`)).text()
 }
+*/
