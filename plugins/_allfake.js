@@ -44,12 +44,12 @@ handler.all = async function (m) {
 				externalAdReply: { // Bagian ini sesuka kalian berkreasi :'v
                     showAdAttribution: true,
 					title: global.ucapan,
-					body: wm,
+					body: 'PICK FORD',
 					mediaUrl: sgc,
-					description: 'Elaina-MultiDevice',
+					description: 'Subscribe My YouTube',
 					previewType: "PHOTO",
 					thumbnail: await (await fetch(thumb)).buffer(),
-					sourceUrl: "https://github.com/ImYanXiao",					
+					sourceUrl: "https://youtube.com/channel/UCJdVJDRUImyBoEp_jdvJAvQ",					
 				}
 			}
 		}
@@ -92,13 +92,13 @@ handler.all = async function (m) {
     } }
 global.fakefb = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            mediaUrl: "https://Facebook.com/zuck",
+            mediaUrl: "https://www.facebook.com/profile.php?id=100077142458119",
             mediaType: "VIDEO",
-            description: "https://www.Facebook.com/zuck", 
-            title: 'Elaina-MultiDevice',
-            body: wm,
+            description: "https://www.facebook.com/profile.php?id=100077142458119", 
+            title: 'Follow My Facebook',
+            body: 'PICK FORD',
             thumbnailUrl: pp,
-            sourceUrl: sgc
+            sourceUrl: 'https://www.facebook.com/profile.php?id=100077142458119'
     }
     } }
 		// Fake ðŸ¤¥
