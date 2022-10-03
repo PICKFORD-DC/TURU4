@@ -4,7 +4,7 @@ let handler = async (m, { text }) => {
 let name = m.pushName || conn.getName(m.sender)
 
 let user = global.db.data.users[m.sender]
-let wibu = `https://hadi-api.herokuapp.com/api/loli`    
+let wibu = `https://telegra.ph/file/97361559236a7591cf908.jpg`    
 let thumb = await(await fetch(wibu)).buffer()
 user.afk = + new Date
 user.afkReason = text
@@ -14,7 +14,7 @@ user.afkReason = text
         description: "https://youtube.com/channel/UCJdVJDRUImyBoEp_jdvJAvQ", 
         title: 'Subscribe My YouTube',
         body: 'PICK FORD',
-        thumbnail: pp,
+        thumbnail: thumb,
         sourceUrl: sig
     }
     } })
