@@ -87,7 +87,7 @@ handler.all = async function (m) {
             title: 'Subscribe My YouTube',
             body: 'PICK FORD',
             thumbnailUrl: pp,
-            sourceUrl: sig
+            sourceUrl: 'https://youtube.com/channel/UCJdVJDRUImyBoEp_jdvJAvQ'
     }
     } }
 global.fakefb = {
