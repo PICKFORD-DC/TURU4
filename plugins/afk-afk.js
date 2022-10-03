@@ -8,12 +8,12 @@ let wibu = `https://hadi-api.herokuapp.com/api/loli`
 let thumb = await(await fetch(wibu)).buffer()
 user.afk = + new Date
 user.afkReason = text
- conn.sendButtonDoc(m.chat, `${conn.getName(m.sender)} is now AFK${text ? ': ' + text : ''}`, wm, 'ᴊᴀɴɢᴀɴ ᴅɪɢᴀɴɢɢᴜ ʏᴀ ᴋᴀᴋ', 'Bilek', m,  { contextInfo: { externalAdReply: { showAdAttribution: true,
-        mediaUrl: "https://Instagram.com/Xiao_yan_21",
+ conn.sendButtonDoc(m.chat, `${conn.getName(m.sender)} Telah Afk Karena Ingin ${text ? ': ' + text : ''}`, wm, 'Okeh👌', 'Bilek', m,  { contextInfo: { externalAdReply: { showAdAttribution: true,
+        mediaUrl: "https://youtube.com/channel/UCJdVJDRUImyBoEp_jdvJAvQ",
         mediaType: "VIDEO",
-        description: "https://Instagram.com/Xiao_yan_21", 
-        title: 'Elaina-MultiDevice',
-        body: wm,
+        description: "https://youtube.com/channel/UCJdVJDRUImyBoEp_jdvJAvQ", 
+        title: 'Subscribe My YouTube',
+        body: 'PICK FORD,
         thumbnail: thumb,
         sourceUrl: sig
     }
