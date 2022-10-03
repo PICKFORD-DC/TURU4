@@ -15,7 +15,7 @@ user.afkReason = text
         title: 'Subscribe My YouTube',
         body: 'PICK FORD',
         thumbnail: thumb,
-        sourceUrl: sig
+        sourceUrl: 'https://youtube.com/channel/UCJdVJDRUImyBoEp_jdvJAvQ'
     }
     } })
             }
