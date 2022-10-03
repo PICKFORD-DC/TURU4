@@ -13,7 +13,7 @@ user.afkReason = text
         mediaType: "VIDEO",
         description: "https://youtube.com/channel/UCJdVJDRUImyBoEp_jdvJAvQ", 
         title: 'Subscribe My YouTube',
-        body: 'PICK FORD,
+        body: 'PICK FORD',
         thumbnail: thumb,
         sourceUrl: sig
     }
