@@ -10,7 +10,7 @@ user.afk = + new Date
 user.afkReason = text
  conn.sendButtonDoc(m.chat, `${conn.getName(m.sender)} Telah Afk Karena Ingin ${text ? ': ' + text : ''}`, wm, 'Okeh👌', 'Bilek', m,  { contextInfo: { externalAdReply: { showAdAttribution: true,
         mediaUrl: "https://youtube.com/channel/UCJdVJDRUImyBoEp_jdvJAvQ",
-        mediaType: "VIDEO",
+        mediaType: "PHOTO",
         description: "https://youtube.com/channel/UCJdVJDRUImyBoEp_jdvJAvQ", 
         title: 'Subscribe My YouTube',
         body: 'PICK FORD',
