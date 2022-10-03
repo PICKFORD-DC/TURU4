@@ -81,11 +81,11 @@ handler.all = async function (m) {
 			}
 		global.fakeig = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            mediaUrl: "https://Instagram.com/Xiao_yan_21",
+            mediaUrl: "https://youtube.com/channel/UCJdVJDRUImyBoEp_jdvJAvQ",
             mediaType: "VIDEO",
-            description: "https://Instagram.com/Xiao_yan_21", 
-            title: 'Elaina-MultiDevice',
-            body: wm,
+            description: "https://youtube.com/channel/UCJdVJDRUImyBoEp_jdvJAvQ", 
+            title: 'Subscribe My YouTube',
+            body: 'PICK FORD',
             thumbnailUrl: pp,
             sourceUrl: sig
     }
