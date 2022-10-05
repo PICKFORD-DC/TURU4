@@ -7,7 +7,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------- NOMOR
   let nowner = `${nomorown.split`@`[0]}@s.whatsapp.net`
   let teksnomor = `${htki} *OWNER* ${htka}
-✦ @${nomorown.split`@`[0]} ✦
+✦wa.me/6283806211924✦
 ------- ${nameown} -------
 
 📮 *Note:*
@@ -20,22 +20,22 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = 'https://telegra.ph/file/cce9ab4551f7150f1970d.jpg'
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : Yan Xiao
+${htjava} *💌 Nama* : PICKFORD
 ${htjava} *✉️ Nama RL* : Rahasia🗿
-${htjava} *♂️ Gender* : Boys
+${htjava} *♂️ Gender* : LAKI LAKI
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : 15 Oktober 2004
-${htjava} *🎨 Umur* : 17
-${htjava} *🧮 Kelas* : 12
-${htjava} *🧩 Hobby* : Nonton Donghua, Chatting, Musik, Recode script bot
+${htjava} *⏰ Tanggal lahir* : 16 Agustus 2007
+${htjava} *🎨 Umur* : 15
+${htjava} *🧮 Kelas* : 8
+${htjava} *🧩 Hobby* : Programing, Recode script bot
 ${htjava} *💬 Sifat* : Idiot, Tidak Ramah, Bilek, Prik, Nolep
-${htjava} *🗺️ Tinggal* : Indo, Tulungagung, Jawa Timur
-${htjava} *❤️ Suka* : kucing
-${htjava} *💔 Benci* : autis, seleb
+${htjava} *🗺️ Tinggal* : Indonesia, jawabarat, Indramayu, TENAJAR lor
+${htjava} *❤️ Suka* : kamu🗿
+${htjava} *💔 Benci* : KPop🗿👆
 
-${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
-${htjava} *🇫  ғᴀᴄᴇʙᴏᴏᴋ* : Fay Cat's Kun
-${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
+${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : Pick_Ford867
+${htjava} *🇫  ғᴀᴄᴇʙᴏᴏᴋ* : https://www.facebook.com/profile.php?id=100077142458119
+${htjava} *🐈 ɢɪᴛʜᴜʙ*: https://github.com/PICKFORD-DC
 •·––––––––––––––––––––––––––·•
 `
   let teks = 'Pilih dibawah kak ! o(〃＾▽＾〃)o'
