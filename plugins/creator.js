@@ -26,7 +26,7 @@ ${htjava} *♂️ Gender* : LAKI LAKI
 ${htjava} *🕋 Agama* : Islam
 ${htjava} *⏰ Tanggal lahir* : 16 Agustus 2007
 ${htjava} *🎨 Umur* : 15
-${htjava} *🧮 Kelas* : 8
+${htjava} *🧮 Kelas* : 9
 ${htjava} *🧩 Hobby* : Programing, Recode script bot
 ${htjava} *💬 Sifat* : Idiot, Tidak Ramah, Bilek, Prik, Nolep
 ${htjava} *🗺️ Tinggal* : Indonesia, jawabarat, Indramayu, TENAJAR lor
@@ -38,14 +38,13 @@ ${htjava} *🇫  ғᴀᴄᴇʙᴏᴏᴋ* : https://www.facebook.com/profile.ph
 ${htjava} *🐈 ɢɪᴛʜᴜʙ*: https://github.com/PICKFORD-DC
 •·––––––––––––––––––––––––––·•
 `
-  let teks = 'Pilih dibawah kak ! o(〃＾▽＾〃)o'
+  let teks = 'INFORMASI TENTANG OWNER'
 const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
 	rows: [
 	    {title: "📱 • Nomor", rowId: ".owner nomor"},
 	{title: "🎨 • Biodata", rowId: ".owner bio"},
-	{title: "🌎 • Script", rowId: ".sc"},
 	]
     },{
 	title: `${htjava} SUPPORT ME –––––––·•`,
