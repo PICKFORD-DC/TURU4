@@ -693,8 +693,8 @@ export async function participantsUpdate({ id, participants, action }) {
     mediaUrl: "https://youtube.com/channel/UCJdVJDRUImyBoEp_jdvJAvQ",
     mediaType: 2, 
     description: "https://youtube.com/channel/UCJdVJDRUImyBoEp_jdvJAvQ", 
-    title: 'DITA-BOT',
-    body: wm,
+    title: `Welcome ${this.getName(user)}`,
+    body: 'Patuhi Peraturan Yaa',
     thumbnail: await(await fetch(action === 'add' ? wel : lea)).buffer(),
     sourceUrl: sgc
      }}
