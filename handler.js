@@ -693,10 +693,10 @@ export async function participantsUpdate({ id, participants, action }) {
     mediaUrl: "https://youtube.com/channel/UCJdVJDRUImyBoEp_jdvJAvQ",
     mediaType: 2, 
     description: "https://youtube.com/channel/UCJdVJDRUImyBoEp_jdvJAvQ", 
-    title: `Welcome ${this.getName(user)}`,
-    body: 'Patuhi Peraturan Yaa',
+    title: `Hai Kak ${this.getName(user)}`,
+    body: 'Subscribe My YouTube',
     thumbnail: await(await fetch(action === 'add' ? wel : lea)).buffer(),
-    sourceUrl: sgc
+    sourceUrl: 'https://youtube.com/channel/UCJdVJDRUImyBoEp_jdvJAvQ'
      }}
   })
                     }
