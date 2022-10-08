@@ -688,7 +688,7 @@ function ucapan() {
     res = "Selamat Pagi Kak 🌄"
   }
   if (time >= 10) {
-    res = "Selamat Malam Kak ☀️"
+    res = "Selamat Siang Kak ☀️"
   }
   if (time >= 15) {
     res = "Selamat Sore Kak 🌇"
